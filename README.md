@@ -1,7 +1,7 @@
 # awsome-condmat
 lecture note, Code and other stuff about condmat
 
-##lecture
+## lecture
 http://www.weizmann.ac.il/weizsites/ruhman/cm2201/
 
 http://boulder.research.yale.edu/Boulder-2008/Lectures/index.html#today
