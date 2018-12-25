@@ -1,7 +1,7 @@
 # awsome-condmat
 lecture note, Code and other stuff about condmat
 
-## lecture
+## Lecture Notes
 http://www.weizmann.ac.il/weizsites/ruhman/cm2201/
 
 http://boulder.research.yale.edu/Boulder-2008/Lectures/index.html#today
@@ -77,3 +77,10 @@ http://www.phys.lsu.edu/~jarrell/Green/index.html
 http://www.phys.lsu.edu/~jarrell/
 
 http://www.scivee.tv/node/19784
+
+## Code 
+kwant : https://kwant-project.org/
+
+matplotlib : numpy : scipy : 
+
+mkl : https://software.intel.com/en-us/mkl
