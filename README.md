@@ -23,3 +23,11 @@ kwant : https://kwant-project.org/
 matplotlib : numpy : scipy : 
 
 mkl : https://software.intel.com/en-us/mkl
+
+ALPS : alps.comp-phys.org/
+
+triqs : https://triqs.ipht.cnrs.fr
+
+DQMC  : scalettar.physics.ucdavis.edu/michigan/howto1.pdf
+
+
