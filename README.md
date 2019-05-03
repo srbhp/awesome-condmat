@@ -1,5 +1,5 @@
 # awsome-condmat
-lecture note, Code and other stuff about condmat
+lecture note, Code and other stuff about Condensed Matter (condmat) Physics
 
 ## Lecture Notes and Videos
 http://www.kitp.ucsb.edu/
@@ -18,11 +18,6 @@ http://wiki.phys.ethz.ch/quantumsimulations/start
 
 
 ## Code 
-kwant : https://kwant-project.org/
-
-matplotlib : numpy : scipy : 
-
-mkl : https://software.intel.com/en-us/mkl
 
 ALPS : alps.comp-phys.org/
 
@@ -30,4 +25,10 @@ triqs : https://triqs.ipht.cnrs.fr
 
 DQMC  : scalettar.physics.ucdavis.edu/michigan/howto1.pdf
 
+## other Tools
 
+kwant : https://kwant-project.org/
+
+matplotlib : numpy : scipy : 
+
+mkl : https://software.intel.com/en-us/mkl
