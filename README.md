@@ -18,6 +18,10 @@ http://wiki.phys.ethz.ch/quantumsimulations/start
 
 [KBEt^2](http://www.theo-physik.uni-kiel.de/bonitz/kbet2.html "Quantum Many-Body Dynamics out of Equilibrium")
 
+## School and Conferences (past)
+
+cifar - pitp (https://pitp.phas.ubc.ca/confs/sherbrooke/archives.html)
+
 ## Code 
 
 ALPS : alps.comp-phys.org/
